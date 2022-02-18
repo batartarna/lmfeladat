@@ -17,15 +17,15 @@
 	border:2px solid gray;
 }
 
+.lap
+{
+	padding:20px;
+	color:#d3d3d3;
+}
+
 .container img, .lap
 {
 	float:left;
 	max-width:760px;
     width: auto;
-}
-
-.lap
-{
-	padding:20px;
-	color:#d3d3d3;
 }
